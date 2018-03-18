@@ -8,4 +8,4 @@ Per detectar els paràmetres (usuari i contrassenya) es fa servir la llibreria "
 Dins del fitxer hi ha una llista "li" que conté les adreces dels destinataris a qui se'ls vol enviar el correu amb la informació del llibre
 
 El programa NO S'EXECUTARÀ si no es passa per paràmetre un usuari o una contrassenya o si algun d'aquests és incorrecte
-Hi ha una addreça destinatari de prova (que és la meva personal) canviar-la o afegir-n'hi per comprovar el correcte funcionament
+Hi ha una addreça destinatari de prova (correu personal) canviar-la o afegir-n'hi per comprovar el correcte funcionament
