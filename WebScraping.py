@@ -10,7 +10,7 @@ import sys
 
 class WebScraping(object):
 
-    def book_search(self):
+    def main(self):
         html = self.web('https://www.packtpub.com/packt/offers/free-learning/')
         book = self.parse(html)
         msg = self.message(book)
@@ -56,4 +56,4 @@ if __name__ == "__main__":
         print("Insert gmail user and password")
     else :
         webScraping = WebScraping()
-        webScraping.book_search()
+        webScraping.main()
